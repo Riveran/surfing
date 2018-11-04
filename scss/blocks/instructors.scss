@@ -1,0 +1,30 @@
+.instructors-wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 255px;
+    
+}
+
+.instructor {
+    text-align: center;
+}
+
+.instructor__photo {
+    margin-bottom: 30px;
+}
+
+.instructor__name {
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0.25px;
+    margin-bottom: 10px;
+}
+
+.instructor__students {
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 0.14px;
+    color: #2ab738
+
+}

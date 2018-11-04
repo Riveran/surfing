@@ -1,0 +1,53 @@
+body {
+    font-family: 'Lato', sans-serif;
+    color: #000;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.container {
+    width: 1050px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header-1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+    font-weight: 400;
+    letter-spacing: 0.41px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 85px
+
+}
+
+.mb-70 {
+    margin-bottom: 70px !important;
+}
+
+.button {
+    display: inline-block;
+    height: 56px;
+    padding: 18px 45px 0;
+    color: #000;
+    border: 1px solid #41475b;
+    background-color: #fff;
+
+    line-height: 1;
+    font-style: 16px;
+    font-weight: 500;
+    transition: all 0.2s ease-in;
+
+    &:hover {
+    text-decoration: none;
+    background-color: #000000;
+    color: #ffffff;
+    }
+}
+
+.cta-section {
+    margin-bottom: 145px;
+}
